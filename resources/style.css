@@ -1,3 +1,7 @@
 body {
   font-family: Helvetica;
 }
+
+div {
+  background-image: url(../resources/the-flatiron-building.png);
+}
